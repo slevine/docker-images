@@ -1,9 +1,5 @@
 Confluent Stream Data Platform on Docker
 ========================================
-- [ ] First
-- [ ] Second
-- [ ] Third
-
 Experimental docker images for running the
 [Confluent Platform](http://confluent.io/docs/current/index.html).
 These images are currently intended for development use, not for production use.
